@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_fragment_today">Сьогодні</string>
+    <string name="title_fragment_after_tomorrow">Післязавтра</string>
+    <string name="title_fragment_tomorrow">Завтра</string>
+    <string name="internet_connection_error">Відсутній інтернет. Використовуються дані збережені раніше.</string>
+    <string name="request_connection_error">Помилка доступу до серверу.</string>
+    <string name="meter_per_sec">м/с</string>
+    <string name="celsius">\u00b0C</string>
+    <string name="temperature">Температура</string>
+    <string name="wind">Вітер</string>
+
+    <string-array name="spinner_list">
+        <item>Київ</item>
+        <item>Львів</item>
+        <item>Харків</item>
+        <item>Дніпро</item>
+        <item>Одеса</item>
+    </string-array>
+    <string-array name="spinner_coordinates">
+        <item>50.444645;30.518268</item>
+        <item>49.841444;24.029530</item>
+        <item>49.989468;36.234058</item>
+        <item>48.464908;35.027859</item>
+        <item>46.463197;30.717961</item>
+    </string-array>
+
+</resources>
